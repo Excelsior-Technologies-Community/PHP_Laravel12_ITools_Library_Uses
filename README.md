@@ -489,6 +489,9 @@ PHP_Laravel12_ITools_Library_Uses/
 ---
 
 Your PHP_Laravel12_ITools_Library_Uses Project is Now Ready!
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> development
