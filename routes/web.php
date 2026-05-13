@@ -18,4 +18,4 @@ Route::delete('/tools/{id}', [ToolController::class, 'destroy'])->name('tools.de
 // Features: Changelog, Health & Compare
 Route::get('/tools/{id}/changelog', [ToolController::class, 'changelog'])->name('tools.changelog');
 Route::get('/tools/health/{id}', [ToolController::class, 'checkHealth'])->name('tools.health');
-Route::get('/tools/compare', [ToolController::class, 'compare'])->name('tools.compare');
+Route::get('/tools/compare', [ToolController::class, 'compare'])->name('tools.compare'); 
